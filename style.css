@@ -1,10 +1,10 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
+    --color-primary: #00f9ed;
+    --color-secondary: #ffce5d;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-button: #02ff20;
+    --color-button-hover: #a0ff1a;
+    --color-text: #3e200a;
     --color-white: #FFFFFF;
 }
 
@@ -148,7 +148,7 @@ ul {
     align-items: center;
     width: 100%;
     padding: 10px 40px;
-    color: var(--color-white);
+    color: #2d1f01;
     background-color: var(--color-button);
     font-size: 16px;
 }
